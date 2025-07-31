@@ -65,10 +65,7 @@ STEM alanındaki kadınları teknolojiyle buluşturma misyonuyla yola çıkan bu
 
 
 ## İletişim
-📧 sinemakyaman@gmail.com
-📌 [LinkedIn](www.linkedin.com/in/sinemakyaman)
-📌 [GitHub](https://github.com/Sinemakyaman)
-=======
-# W-Code2.0-Bitirme-projesi
-Gelecek Hayalim programı , Kodluyoruz iş birliği kapsamında  W-Code 2.0 Veri Bilimi ve Yapay Zeka Atölyesi Bitirme Projem 
->>>>>>> b0a1226e0784ddd148798ed4e1191ba3f5a41058
+sinemakyaman@gmail.com
+[LinkedIn](www.linkedin.com/in/sinemakyaman)
+[GitHub](https://github.com/Sinemakyaman)
+
