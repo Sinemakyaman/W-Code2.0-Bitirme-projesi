@@ -59,13 +59,17 @@ Bu proje, Ford Otosan, Mikado Impact, Vehbi Koç Vakfı ve Kodluyoruz’un deste
 STEM alanındaki kadınları teknolojiyle buluşturma misyonuyla yola çıkan bu yolculukta bize eşlik eden herkese teşekkür ederiz.
 
 ## Projeyi Çalıştırmak İçin
+
 1.data/ klasöründeki dosyaları indir
 2.Notebooks klasöründeki .ipynb dosyasını aç
 3.Gerekli kütüphaneleri yükle
 
 
 ## İletişim
+
 sinemakyaman@gmail.com
-[LinkedIn](www.linkedin.com/in/sinemakyaman)
+
+[LinkedIn](https://www.linkedin.com/in/sinemakyaman)
+
 [GitHub](https://github.com/Sinemakyaman)
 
